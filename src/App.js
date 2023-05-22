@@ -1,12 +1,10 @@
-import {EventRouters} from "./components/routes/eventRoutes";
-import {CommunityRouters} from "./components/routes/communityRoutes"
+import {PublicRoutes} from "./components/routes/publicRoutes"
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <CommunityRouters/>
-      {/* <EventRouters/> */}
+      <PublicRoutes/>
     </div>
   );
 }
