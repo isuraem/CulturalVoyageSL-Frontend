@@ -1,5 +1,5 @@
 import axios from 'axios';
-const BASE_URL = `https://cultural-voyage-sl-backend-brown.vercel.app/event`
+const BASE_URL = `http://localhost:5000/event`
 
 export const addEventsService = async (payload) => {
 console.log('payload',payload);

@@ -1,5 +1,5 @@
 import axios from 'axios';
-const BASE_URL = `https://cultural-voyage-sl-backend-brown.vercel.app/post`
+const BASE_URL = `http://localhost:5000/post`
 
 export const getAllPostService = async () => {
 
