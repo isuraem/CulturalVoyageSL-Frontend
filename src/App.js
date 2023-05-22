@@ -1,4 +1,4 @@
-import {PublicRoutes} from "./components/routes/publicRoutes"
+import { PublicRoutes } from "./components/routes/publicRoutes"
 import './App.css';
 
 function App() {

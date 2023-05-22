@@ -11,7 +11,7 @@ import CommunityDashboard from "../views/communitypost/communityDashboard";
 import SearchDashBoard from "../views/communitypost/searchDashBoard";
 import CommunityMap from "../views/communitypost/communityMap"
 
-export const PublicRouters = () => {
+export const PublicRoutes = () => {
   return (
     <div>
       <Router>
