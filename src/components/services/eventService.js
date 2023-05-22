@@ -1,5 +1,5 @@
 import axios from 'axios';
-const BASE_URL = `http://localhost:5000/event`
+const BASE_URL = `https://culturalvoyagesl-backend.onrender.com/event`
 
 export const addEventsService = async (payload) => {
 console.log('payload',payload);

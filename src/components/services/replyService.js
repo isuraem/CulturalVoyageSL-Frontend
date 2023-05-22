@@ -1,5 +1,5 @@
 import axios from 'axios';
-const BASE_URL = `http://localhost:5000/reply`
+const BASE_URL = `https://culturalvoyagesl-backend.onrender.com/reply`
 
 export const getPostReplyService = async (id) => {
 
